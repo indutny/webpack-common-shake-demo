@@ -1,4 +1,4 @@
-# `webpack-common-shake` demo
+# webpack-common-shake demo
 
 Just a demonstration of [webpack-common-shake][0] on small application with
 require of [crypto-browserify][1].
