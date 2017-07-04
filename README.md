@@ -5,10 +5,10 @@ require of [crypto-browserify][1].
 
 ## Results
 
-| Label    | Size (bytes) | Improvement |
-| -------- | ------------ | ----------- |
-| No shake | 308145       |             |
-| Shake    | 275334       | 10.6%       |
+| Label    | Size (bytes) |
+| -------- | ------------ |
+| No shake | 308145       |
+| Shake    | 306187       |
 
 ## Building
 
