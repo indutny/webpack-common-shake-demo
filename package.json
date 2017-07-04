@@ -1,0 +1,17 @@
+{
+  "name": "webpack-common-shake-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress -p"
+  },
+  "keywords": [],
+  "author": "Fedor Indutny <fedor@indutny.com> (http://darksi.de/)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-common-shake": "^1.2.0"
+  }
+}
