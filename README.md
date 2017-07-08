@@ -7,8 +7,8 @@ require of [crypto-browserify][1].
 
 | Label    | Size (bytes) |
 | -------- | ------------ |
-| No shake | 308145       |
-| Shake    | 306187       |
+| No shake | 308136       |
+| Shake    | 305973       |
 
 ## Building
 

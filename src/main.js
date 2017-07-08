@@ -2,4 +2,4 @@
 
 const crypto = require('crypto');
 
-crypto.createHash('sha1').update('hello').digest('hex');
+console.log(crypto.createHash('sha1').update('hello').digest('hex'));
